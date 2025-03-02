@@ -1,6 +1,8 @@
 # The SPADA Methodology for Threat Modelling
 
-This folder contains the outcomes for the article "The SPADA Methodology for Threat Modelling"
+This folder contains the outcomes for the article "The SPADA Methodology for Threat Modelling", in International Journal of Information Security (2025).
+
+DOI: <https://doi.org/10.1007/s10207-025-00999-0>
 
 It contains a comprehensive list of privacy threats organised into domain-independent and domain-dependent categories. The content is designed to facilitate security and privacy threat modelling and analysis in various domains, including smart cars and smart homes.
 
@@ -44,3 +46,35 @@ For example, within the Soft Privacy tab, let us consider row 19: the threat "Fa
 This file contains three tabs named "Smart Home Assets", "Soft Privacy" and "Hard Privacy". The first tab includes the assets collected for the target domain (smart home), along with the document source (S) and category/group for each asset. The second and third tabs feature the domain-dependent threats for, respectively, soft and hard privacy, obtained by appropriate combinations with the target domain assets, along with the document source (S) for each threat.
 
 For example, within the Hard Privacy tab, let us consider row 26: the threat "Attributable action side-effect evidence" sourced from LINDDUN can be associated with "Users preferences" and "Behavioural patterns and trends" (totalling 2 assets). Consequently, there are 2 instances of this threat or, in other words, 2 domain-dependent hard privacy threats arise from the combination of the domain-independent threat with each of the assets.
+
+---
+
+### Citation
+
+Please cite this work as follows:
+
+```
+@article{spada,
+ abstract = {As individuals engage with innovative technologies, including smart cars and smart homes, a comprehensive treatment of the threats to their privacy becomes increasingly urgent. This article recognises the relevance of security and, in particular, privacy threat modelling, especially under the umbrella of GDPR compliance, and addresses the challenge of the pursuit of completeness in eliciting security and privacy threats. The core contribution is SPADA, a methodology for threat modelling revolving around five key variables (whose initials form the acronym that names the methodology). These are: ``Source of documentation'', ``Property'', ``Application domain'', ``Detail (level of)''and ``Agent(s) raising the threats'', and clarify the essential variable elements of the threat modelling activity. SPADA requires the analyst to duly instantiate each variable but offers increased structure and automation in return. The methodology is applied to the domains of smart cars and smart homes, considering both soft and hard privacy. This yields 23 domain-independent threats for soft privacy, and 29 domain-independent threats for hard privacy. Both these lists of threats are then tailored to the smart car domain by appropriate combination with the 43 identified assets, producing a total of 785 privacy threats for smart cars. Similarly, appropriate combination with the 127 assets identified in the smart home domain produces a total of 1502 privacy threats for smart homes.},
+ author = {Raciti, Mario and Bella, Giampaolo},
+ date = {2025/03/01},
+ date-added = {2025-03-02 10:43:13 AM +0100},
+ date-modified = {2025-03-02 10:43:13 AM +0100},
+ doi = {10.1007/s10207-025-00999-0},
+ id = {Raciti2025},
+ isbn = {1615-5270},
+ journal = {International Journal of Information Security},
+ number = {2},
+ pages = {86},
+ title = {The SPADA methodology for threat modelling},
+ url = {https://doi.org/10.1007/s10207-025-00999-0},
+ volume = {24},
+ year = {2025},
+ bdsk-url-1 = {https://doi.org/10.1007/s10207-025-00999-0}}
+```
+
+#### Contacts
+
+- Email: <marioraciti@pm.me>
+- LinkedIn: linkedin.com/in/marioraciti
+- Twitter: twitter.com/tsumarios

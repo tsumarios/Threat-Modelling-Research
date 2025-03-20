@@ -1,0 +1,38 @@
+ID,Threat,Source of documentation
+t_1,Misdirection of investigation documents,Seyyar et al.
+t_2,Unencrypted data transmission from third parties,Seyyar et al.
+t_3,Unauthorized access to data,Seyyar et al.
+t_4,Access to data after case is closed,Seyyar et al.
+t_5,Lack of authorization management,Seyyar et al.
+t_6,Illegitimate cross-referencing of data,Seyyar et al.
+t_7,"Errors during updates, conﬁguration or maintenance",Seyyar et al.
+t_8,Replacement of an original document (paper) by a forgery,Seyyar et al.
+t_9,Replacement of components,Seyyar et al.
+t_10,Not to ensure separation of duties,Seyyar et al.
+t_11,Errors while uploading seized digital material,Seyyar et al.
+t_12,Insufﬁcient knowledge of the software,Seyyar et al.
+t_13,Processing capacity overload,Seyyar et al.
+t_14,Assignment of poorly trained employees.,Seyyar et al.
+t_15,Under tested software/hardware integration,Seyyar et al.
+t_16,Third party privacy breach,Seyyar et al.
+t_17,Informed permission issues,Seyyar et al.
+t_18,Cross-border data privacy concerns,Seyyar et al.
+t_19,Lack of privacy management in tools and procedures,Seyyar et al.
+t_20,Centralization of data,Rowe
+t_21,Misjudgment of data,Rowe
+t_22,Unwarranted reporting of forensic findings,Rowe
+t_23,Surreptitious searches,Rowe
+t_24,Selling of private forensic data,Rowe
+t_25,Criminal use of digital forensics,Rowe
+t_26,Difficulty of assessing damage to privacy,Rowe
+t_27,Lack of consent and choice,Schaik et al.
+t_28,Lack of purpose legitimacy and specification,Schaik et al.
+t_29,Lack of collection limitation,Schaik et al.
+t_30,Lack of data minimization,Schaik et al.
+t_31,"Lack of use, retention and disclosure limitation",Schaik et al.
+t_32,Lack of accuracy and quality,Schaik et al.
+t_33,"Lack of openness, transparency and notice",Schaik et al.
+t_34,Group participation and access,Schaik et al.
+t_35,Lack of accountability,Schaik et al.
+t_36,Lack of information security controls,Schaik et al.
+t_37,Lack of compliance,Schaik et al.

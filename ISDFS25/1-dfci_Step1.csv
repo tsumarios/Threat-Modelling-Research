@@ -1,0 +1,47 @@
+Source of documentation,Threat
+Seyyar et al.,Data process/read for wrong case
+,Unencrypted data transmission from third parties
+,Unauthorized person access to the big data forensic platform
+,Investigation report (paper documents) sent to wrong destination
+,Access to data after case is closed
+,No systematic monitoring of authorizations
+,Illegitimate cross-referencing of data
+,"Errors during updates, conﬁguration or maintenance"
+,Malicious code injection
+,Replacement of an original document (paper) by a forgery
+,Replacement of components
+,Authorizations not granted at case level
+,Not to ensure separation of duties
+,Errors while uploading seized digital material
+,Insufﬁcient knowledge of the software
+,Processing capacity overload
+,Denial of service attack
+,Ageing of archived documents
+,Loss of encryption key
+,Assignment of poorly trained employees.
+,Under tested software/hardware integration
+Chaure et al.,Third party privacy breach
+,Erroneous allegations due to deleted files
+,Informed permission issues
+,Cross-border data privacy concerns
+,Lack of privacy requirements in tools and procedures
+Rowe,Centralization of data
+,Misjudgment of data
+,Unwarranted reporting of forensic findings
+,Violating privacy of third parties
+,Surreptitious searches
+,Selling of private forensic data
+,Criminal use of digital forensics
+,Difficulty of assessing damage to privacy
+,Lack of support for privacy management by forensic tool vendors
+Schaik et al.,Lack of consent and choice
+,Lack of purpose legitimacy and specification
+,Lack of collection limitation
+,Lack of data minimization
+,"Lack of use, retention and disclosure limitation"
+,Lack of accuracy and quality
+,"Lack of openness, transparency and notice"
+,Group participation and access
+,Lack of accountability
+,Lack of information security controls
+,Lack of compliance

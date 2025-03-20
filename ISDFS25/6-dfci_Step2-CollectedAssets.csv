@@ -1,0 +1,48 @@
+Source of documentation,Asset
+CoE DF,Internet browsing history and logs
+CoE DF,Email communications and attachments
+CoE DF,"Chat messages (WhatsApp, Telegram, Signal)"
+CoE DF,"VoIP call logs (Skype, Zoom, Microsoft Teams)"
+CoE DF,IP logs
+CoE DF,Cloud storage and remote backup records
+CoE DF,"Event logs (Windows, Linux, macOS)"
+CoE DF,"Authentication and access logs (Active Directory, LDAP)"
+CoE DF,Installed software and execution logs
+CoE DF,VPN connection records
+CoE DF,"Digital forensic software (FTK, EnCase, Autopsy)"
+CoE DF,Write blockers (hardware/software)
+CoE DF,Case management databases (for tracking evidence and chain of custody)
+CoE DF,Secure forensic workstations and analysis labs
+CoE DF,Hash comparison databases
+CoE DF,Metadata extraction tools
+CoE DF,Internet search history logs
+CoE DF,Network traffic logs
+CoE EEG,"Mobile phones and tablets (Android, iOS)"
+CoE EEG,GPS and geolocation data
+CoE EEG,"Wearable devices (smartwatches, fitness trackers)"
+CoE EEG,"IoT devices (CCTV cameras, smart home hubs)"
+CoE EEG,"Gaming consoles (PlayStation, Xbox, Nintendo Switch)"
+CoE EEG,Phishing emails and social engineering attack logs
+CoE EEG,"Dark web transaction records (Bitcoin wallets, Monero transactions)"
+CoE EEG,Windows Registry logs
+CoE EEG,USB connection history
+CoE EEG,Event logs
+CoE EEG,Email headers and metadata
+IPOL,Log file forensic tools
+IPOL,Database audit logs
+IPOL,Application logs from forensic tools
+ISO,"Hard drives (HDDs, SSDs)"
+ISO,USB flash drives
+ISO,"Memory cards (SD cards, microSD)"
+ISO,"Optical media (CDs, DVDs)"
+ISO,RAID storage systems
+ISO,Digital evidence repositories
+ISO,Forensic acquisition tools
+ISO,Write blockers
+ISO,Chain of custody records
+NIJ,Case data storage servers
+NIJ,Backup storage devices
+NIJ,Forensic lab access control records
+NIST,Deleted file recovery tools
+NIST,Memory forensics tools
+NIST,Mobile device acquisition tools

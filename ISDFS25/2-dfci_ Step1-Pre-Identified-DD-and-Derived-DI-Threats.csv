@@ -1,0 +1,13 @@
+Source of documentation,Threat (Domain-Dependent),Threat (Domain-Independent)
+Seyyar et al.,Data process/read for wrong case,Improper data processing or access
+,Unauthorized person access to the big data forensic platform,Unauthorized person access to the big data platform
+,Investigation report (paper documents) sent to wrong destination,Misdelivery of confidential document
+,Access to data after case is closed,Access to data beyond retention period
+,Authorizations not granted at case level,Insufficient access control mechanisms 
+,Errors while uploading seized digital material,Errors in data upload or ingestion
+Chaure et al.,Erroneous allegations due to deleted files,Erroneous allegations due to deleted files
+Rowe,Unwarranted reporting of forensic findings,Unwarranted reporting of findings
+,Surreptitious searches,Covert or unlawful data searches
+,Selling of private forensic data,Illicit sale of private data
+,Criminal use of digital forensics,Malicious misuse of practice
+,Lack of support for privacy management by forensic tool vendors,Lack of support for privacy management by software vendors

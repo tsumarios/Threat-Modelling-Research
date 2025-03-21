@@ -6,18 +6,18 @@ t_4,Access to data after case is closed,Seyyar et al.
 t_5,Lack of authorization management,Seyyar et al.
 t_6,Illegitimate cross-referencing of data,Seyyar et al.
 t_7,"Errors during updates, conﬁguration or maintenance",Seyyar et al.
-t_8,Replacement of an original document (paper) by a forgery,Seyyar et al.
-t_9,Replacement of components,Seyyar et al.
+t_8,Replacement by forgery,Seyyar et al.
+t_9,Replacement,Seyyar et al.
 t_10,Not to ensure separation of duties,Seyyar et al.
 t_11,Errors while uploading seized digital material,Seyyar et al.
-t_12,Insufﬁcient knowledge of the software,Seyyar et al.
+t_12,Insufﬁcient knowledge,Seyyar et al.
 t_13,Processing capacity overload,Seyyar et al.
-t_14,Assignment of poorly trained employees.,Seyyar et al.
+t_14,Poor training,Seyyar et al.
 t_15,Under tested software/hardware integration,Seyyar et al.
 t_16,Third party privacy breach,Seyyar et al.
 t_17,Informed permission issues,Seyyar et al.
 t_18,Cross-border data privacy concerns,Seyyar et al.
-t_19,Lack of privacy management in tools and procedures,Seyyar et al.
+t_19,Lack of privacy management,Seyyar et al.
 t_20,Centralization of data,Rowe
 t_21,Misjudgment of data,Rowe
 t_22,Unwarranted reporting of forensic findings,Rowe

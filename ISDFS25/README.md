@@ -6,8 +6,8 @@ This folder contains the outcomes for the paper "To See or Not to See: A Privacy
 
 Digital forensics is a cornerstone of modern crime investigations, yet it raises significant privacy concerns due to the collection, processing, and storage of digital evidence. Despite that, privacy threats in digital forensics crime investigations often remain underexplored, thereby leading to potential gaps in forensic practices and regulatory compliance, which may then escalate into harming the freedoms of natural persons.
 With this clear motivation, the present paper applies the SPADA methodology for threat modelling with the goal of incorporating privacy-oriented threat modelling in digital forensics.
-As a result, we identify a total of 298 privacy threats that may affect digital forensics processes through crime investigations. Furthermore, we demonstrate an unexplored feature on how SPADA assists in handling domain-dependency during threat elicitation. This yields a second list of privacy threats that are universally applicable to any domain.
-We also discuss some of the challenges about validating privacy threats in this domain, particularly given the variability of legal frameworks across jurisdictions.
+As a result, we identify a total of 298 privacy threats that may affect digital forensics processes through crime investigations. Furthermore, we demonstrate an unexplored feature on how SPADA assists in handling domain-dependency during threat elicitation. This yields a second list of privacy threats that are universally applicable to any domain. We then present a comprehensive and systematic privacy threat model for digital forensics in crime investigation.
+Moreover, we discuss some of the challenges about validating privacy threats in this domain, particularly given the variability of legal frameworks across jurisdictions.
 We ultimately propose our privacy threat model as a tool for ensuring ethical and legally compliant investigative practices.
 
 ---

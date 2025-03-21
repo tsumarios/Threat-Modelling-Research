@@ -4,17 +4,17 @@ Unauthorized access to data,All assets
 Lack of authorization management,All assets
 Illegitimate cross-referencing of data,"Case management databases, Cloud and remote storage, Communication and network logs, Authentication and access logs, System and application logs, Location and tracking data, Email and messagging"
 "Errors during updates, conﬁguration or maintenance",All assets
-Replacement of an original document (paper) by a forgery,"Storage media, Case management databases, Forensic lab"
-Replacement of components,"Desktop devices, Mobile devices, IoT devices, Forensic tools and equipment, Secure forensic workstations, Forensic lab"
+Replacement by forgery,"Storage media, Case management databases, Forensic lab"
+Replacement,"Desktop devices, Mobile devices, IoT devices, Forensic tools and equipment, Secure forensic workstations, Forensic lab"
 Not to ensure separation of duties,All assets
-Insufﬁcient knowledge of the software,All assets
+Insufﬁcient knowledge,All assets
 Processing capacity overload,"Desktop devices, Mobile devices, IoT devices, Cloud and remote storage, Case management databases, Secure forensic workstations, Forensic lab"
-Assignment of poorly trained employees.,All assets
+Poor training,All assets
 Under tested software/hardware integration,All assets
 Third party privacy breach,"Cloud and remote storage, Email and messagging, Communication and network logs, System and application logs, Case management databases"
 Informed permission issues,"Location and tracking data, Email and messagging, IoT devices, Mobile devices, Desktop devices, Case management databases, Cloud and remote storage"
 Cross-border data privacy concerns,"Cloud and remote storage, Email and messagging, Case management databases, Location and tracking data"
-Lack of privacy management in tools and procedures,"Forensic tools and equipment, Secure forensic workstations, Case management databases"
+Lack of privacy management,"Forensic tools and equipment, Secure forensic workstations, Case management databases"
 Centralization of data,"Cloud and remote storage, Case management databases, Email and messagging, Communication and network logs, System and application logs"
 Misjudgment of data,"Case management databases, Email and messagging, Communication and network logs, System and application logs, Cryptocurrency data"
 Difficulty of assessing damage to privacy,All assets
